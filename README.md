@@ -50,6 +50,6 @@ A few minutes a day: open, work, close. Depth is earned by use: the harness star
 
 ## Help
 
-This harness is free and yours, under the Apache-2.0 license. If you want help standing it up for yourself or your team, that's what we do: **Coherent Systems Group**.
+This harness is free and yours, under the Apache-2.0 license. If you want help standing it up for yourself or your team, that's what we do: **Coherent Systems Group**. This harness's home is https://github.com/Coherent-Systems-Group/CharlieEcho; updates come from there (just say **update**).
 
 Copyright 2026 Coherent Systems Group, Inc.

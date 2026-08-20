@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.3 (2026-08-19)
+- The folder now knows where it came from: the canonical repository URL is written into `system/commands/update.md` and the README, so **update** works from a downloaded ZIP with no git and no guessing. Found by the first live run of the update command.
+
 ## 0.0.2 (2026-08-19)
 Alpha feedback from the first real user, same day as 0.0.1:
 - Interview: warmer team introduction (encouragement, the team frame, questions welcome, roles shown as a table); the counterweight question asks once more if it gets a compliment; a warm handoff at close instead of an abrupt end.
