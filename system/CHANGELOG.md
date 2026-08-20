@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.4 (2026-08-19)
+- Charlie gains his Posture: a coherence engine, not a knowledge engine ~ mirror in sharper form, proposals carry their own test, some questions are too small for the truth, reality is the referee.
+- Clara Echo's shell grows into her real craft: "What is present?", feelings as data, clarity over resolution, the Key Takeaway, the no-"I" covenant.
+- Updates now refresh the README files inside me/, sessions/, and loops/ (format docs, not user content) ~ found by Charlie himself during the first live update.
+- Community name synced to CoherentOS.
+
 ## 0.0.3 (2026-08-19)
 - The folder now knows where it came from: the canonical repository URL is written into `system/commands/update.md` and the README, so **update** works from a downloaded ZIP with no git and no guessing. Found by the first live run of the update command.
 
