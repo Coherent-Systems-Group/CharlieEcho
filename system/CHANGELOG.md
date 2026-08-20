@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.5 (2026-08-19)
+- The download now unzips to a folder named simply `CharlieEcho` ~ no version number, no renaming. Each release carries a `CharlieEcho.zip` asset built with a clean root; the README's download door points there.
+
 ## 0.0.4 (2026-08-19)
 - Charlie gains his Posture: a coherence engine, not a knowledge engine ~ mirror in sharper form, proposals carry their own test, some questions are too small for the truth, reality is the referee.
 - Clara Echo's shell grows into her real craft: "What is present?", feelings as data, clarity over resolution, the Key Takeaway, the no-"I" covenant.
