@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.6 (2026-11-10)
+- Name your agent. The interview now asks the user to name their agent (Charlie Echo stays the default) and offers a name for the pair, the dyad; both are written to `me/identity-agent.md`, and the agent introduces itself by the chosen name from then on. Anyone set up on an earlier version is offered the naming once, at the next open. Found by the first founder setup: the agent is theirs, so the name should be too.
+
 ## 0.0.5 (2026-08-19)
 - The download now unzips to a folder named simply `CharlieEcho` ~ no version number, no renaming. Each release carries a `CharlieEcho.zip` asset built with a clean root; the README's download door points there.
 
